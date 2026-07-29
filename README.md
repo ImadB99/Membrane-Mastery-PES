@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="assets/splash.png" alt="Membrane Mastery — Wageningen University & Research × SCT Lab" width="100%">
+  <img src="splash.png" width="100%">
 </p>
 
 <h1 align="center">Membrane Mastery</h1>
 <p align="center"><em>A 3D serious game that teaches dairy membrane filtration — one blob at a time.</em></p>
 
 <p align="center">
-  <img alt="Unity" src="https://img.shields.io/badge/engine-Unity%206-black?logo=unity">
-  <img alt="Status" src="https://img.shields.io/badge/status-BSc%20thesis%20project-orange">
-  <img alt="License" src="https://img.shields.io/badge/licence-TBD-lightgrey">
+  <img src="https://img.shields.io/badge/engine-Unity%206-black?logo=unity">
+  <img src="https://img.shields.io/badge/Wageningen-University%20%26%20Research-34B233?style=flat&labelColor=005A8B">
+  <img src="https://img.shields.io/badge/SCT-Lab-E5006D?style=flat&labelColor=B90059">
 </p>
 
 ## About
